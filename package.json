@@ -1,0 +1,36 @@
+{
+  "name": "three-controls",
+  "version": "1.0.0",
+  "description": "ThreeJS controls as standalone",
+  "main": "src/index.js",
+  "dependencies": {
+    "@types/three": "^0.93.15",
+    "three": "^0.100.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "homepage": "https://github.com/huangfengya/three-controls",
+  "keywords": [
+    "three",
+    "js",
+    "controls",
+    "orbitcontrols"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/huangfengya/three-controls"
+  },
+  "author": {
+    "name": "huangfengya",
+    "url": "https://github.com/huangfengya/three-controls"
+  },
+  "bugs": {
+    "url": "https://github.com/huangfengya/three-controls/issues"
+  },
+  "license": "MIT"
+}
