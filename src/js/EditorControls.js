@@ -316,4 +316,4 @@ function EditorControls( object, domElement ) {
 EditorControls.prototype = Object.create( THREE.EventDispatcher.prototype );
 EditorControls.prototype.constructor = EditorControls;
 
-export {EditorControls}
+export default EditorControls

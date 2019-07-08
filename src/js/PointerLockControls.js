@@ -127,4 +127,4 @@ function PointerLockControls( camera, domElement ) {
 PointerLockControls.prototype = Object.create( THREE.EventDispatcher.prototype );
 PointerLockControls.prototype.constructor = PointerLockControls;
 
-export {PointerLockControls}
+export default PointerLockControls;

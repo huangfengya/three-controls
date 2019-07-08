@@ -1156,4 +1156,4 @@ Object.defineProperties( MapControls.prototype, {
 
 } );
 
-export {MapControls}
+export default MapControls;

@@ -627,4 +627,4 @@ function OrthographicTrackballControls( object, domElement ) {
 OrthographicTrackballControls.prototype = Object.create( THREE.EventDispatcher.prototype );
 OrthographicTrackballControls.prototype.constructor = OrthographicTrackballControls;
 
-export {OrthographicTrackballControls}
+export default OrthographicTrackballControls;

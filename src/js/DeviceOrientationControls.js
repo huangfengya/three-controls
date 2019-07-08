@@ -112,4 +112,4 @@ function DeviceOrientationControls ( object ) {
 
 };
 
-export {DeviceOrientationControls}
+export default DeviceOrientationControls

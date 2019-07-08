@@ -284,4 +284,4 @@ function FlyControls( object, domElement ) {
 
 };
 
-export {FlyControls}
+export default FlyControls;

@@ -287,4 +287,4 @@ function DragControls( _objects, _camera, _domElement ) {
 DragControls.prototype = Object.create( THREE.EventDispatcher.prototype );
 DragControls.prototype.constructor = DragControls;
 
-export {DragControls}
+export default DragControls;

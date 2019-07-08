@@ -301,4 +301,4 @@ function FirstPersonControls( object, domElement ) {
 
 };
 
-export {FirstPersonControls}
+export default FirstPersonControls;
